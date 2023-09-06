@@ -1,6 +1,6 @@
 # Chrome拡張機能：ChatGPT/Bing Chat用 日本語IME Returnキー制御🇯🇵📝
 
-![image](https://github.com/souljazzfunk/No-IME-Submit-for-ChatGPT-and-Bing-Chat/assets/59495284/d478d8e7-7800-4e15-8e43-9e7e081f19ae)
+![image](https://lh3.googleusercontent.com/DaCzUfnaPrxODYrEBr04SAGV79B_0PHsqOi4wlrFPdw2QOuWjIkEw4k9p48TpUzNbKFttkRW3MPKlqEhfHG6Wc5j=w640-h400-e365-rj-sc0x00ffffff)
 
 
 ## 概要
@@ -14,8 +14,8 @@
 
 ## スクリーンショット
 
-![image](https://github.com/souljazzfunk/No-IME-Submit-for-ChatGPT-and-Bing-Chat/assets/59495284/d3049c8a-18b8-4bcf-9502-7b339b68a331)
-![image](https://github.com/souljazzfunk/No-IME-Submit-for-ChatGPT-and-Bing-Chat/assets/59495284/f488f8c5-2991-42b9-8082-c0359fa0015b)
+![image](https://lh3.googleusercontent.com/rMOCGzbygCb4cjVmDp9BltuR6qK2jStyWEzDfDwvwwYQup3lCKXndDRFVsaBBjAqnWWJMONcFfo8MZx39MSKRqDB67w=w640-h400-e365-rj-sc0x00ffffff)
+![image](https://lh3.googleusercontent.com/r98hbk1zIK4tzW9fIwZODqrCEOagpcqDsQs9L7CHid0YvkQt0bCI4W4y31xKpcuR2DtncBBidJBeegaRJdpHQpi9ZdU=w640-h400-e365-rj-sc0x00ffffff)
 
 ## 使用技術
 
